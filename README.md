@@ -11,10 +11,8 @@ A dynamic and interactive shopping cart built with vanilla JavaScript, HTML, and
 - ✅ **Responsive Design**: Built with Bootstrap 5 for mobile-friendly layout
 - ✅ **Smooth Interactions**: Hover effects and visual feedback on user actions
 
-## 🚀 Demo
 
-![Shopping Cart Demo](screenshot.png)
-*Add a screenshot of your application here*
+
 
 ## 📋 Prerequisites
 
